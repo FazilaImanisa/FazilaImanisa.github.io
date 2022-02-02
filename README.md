@@ -1,5 +1,7 @@
 ### Personal Web Portofolio
 
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 <!--
 **FazilaImanisa/FazilaImanisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
